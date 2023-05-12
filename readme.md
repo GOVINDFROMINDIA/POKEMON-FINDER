@@ -2,3 +2,5 @@
 
 # **POKEMON FINDER**
 ### *Choose Your Pokemon: DECISION TREE()*
+
+A prediction system based on decision trees can help in selecting the best Pokemon for a given situation. The system uses data on different Pokemon, their abilities, and other characteristics to train a decision tree model. Once trained, the model can make predictions on new data by inputting characteristics of a particular battle scenario. The output of the model will suggest the best Pokemon to use in that scenario, increasing the chances of success in battle.
